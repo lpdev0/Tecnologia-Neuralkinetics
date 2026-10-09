@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Prévia local. Sitemap público depende de domínio e autorização de publicação.
