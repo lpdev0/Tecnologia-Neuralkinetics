@@ -1,9 +1,0 @@
-NEURALKINETICS — PUBLICAÇÃO MANUAL
-
-Extraia o conteúdo do ZIP na pasta pública da hospedagem (por exemplo, public_html). index.html deve ficar diretamente nessa pasta. Não é necessário instalar Node.js ou pacotes. Para visualizar localmente, abra index.html.
-
-O arquivo .htaccess configura a página 404 em hospedagem Apache na raiz do domínio. Caso publique em subpasta, ajuste ErrorDocument para o caminho dessa subpasta ou configure a página de erro no painel da hospedagem.
-
-O formulário gera e baixa um briefing no navegador; não envia e-mails. O vídeo está incluído localmente, com fallback remoto original. A fonte Inter usa Google Fonts e precisa de internet; sem internet é usada a fonte alternativa do CSS.
-
-Preservados noindex/nofollow e robots.txt bloqueando indexação por se tratar de portfólio fictício. O site não foi publicado.
